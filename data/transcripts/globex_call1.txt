@@ -1,0 +1,19 @@
+Rep: Thanks for joining, Marcus. You're the Ops Director at Globex, right?
+
+Marcus: That's right. We're evaluating a couple of vendors for warehouse
+inventory sync. Price is a real concern for us - your monthly rate is higher
+than what we budgeted.
+
+Rep: Understood. What's the budget range you're working with?
+
+Marcus: We'd hoped to stay under $500/month, but I know your list price is $750.
+
+Rep: Noted. Is there anyone else involved in approving the budget?
+
+Marcus: Yes, our CFO would need to approve anything above our current spend.
+
+Rep: Got it, I'll follow up with some options. Anything else top of mind?
+
+Marcus: We're also comparing you against Flowstock - they reached out to us too.
+
+Rep: Good to know, I'll put together a comparison for our next call.

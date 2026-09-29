@@ -1,0 +1,27 @@
+Rep: Thanks for hopping on, Priya. I know you're the Head of Ops at Acme, so I wanted
+to walk through how our platform handles multi-warehouse inventory sync.
+
+Priya: Sure. Honestly my biggest concern right now is price. We looked at your
+pricing page and it's almost double what we pay for our current tool.
+
+Rep: Totally fair. Can I ask what you're paying today?
+
+Priya: About $400/month for our current setup, and you're at $750.
+
+Rep: Got it. A lot of that gap is the multi-warehouse sync and the real-time
+alerting, which your current tool doesn't do at all. But I hear you on price.
+
+Priya: Also, I'm not the only decision maker here. Our CFO, Raj, would need to
+sign off on anything over $500/month.
+
+Rep: Understood. Would it help if I put together a comparison showing the hours
+saved per week from automated sync, so you have something concrete for Raj?
+
+Priya: Yeah, that would help a lot.
+
+Rep: Great, I'll get that to you by Thursday. Anything else on your mind?
+
+Priya: Also worried about the competitor, Flowstock. We got a cold email from
+them last week with a lower price point.
+
+Rep: Good to know. I'll include a quick comparison against Flowstock in that doc too.

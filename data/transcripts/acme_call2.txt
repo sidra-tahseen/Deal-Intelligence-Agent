@@ -1,0 +1,19 @@
+Rep: Hi Priya, following up after you shared the ROI doc with Raj. How'd it land?
+
+Priya: Raj liked the hours-saved numbers, but he pushed back on the $750/month
+price again. He asked if there's an annual plan with a discount.
+
+Rep: Yes - if you commit annually we can bring it down to $600/month effective
+rate, billed yearly. That's actually below the number you flagged as his ceiling.
+
+Priya: Oh that's good. He'll want that in writing. Also, is Raj able to join our
+next call directly instead of going through me?
+
+Rep: Of course, happy to have him on. I'll also bring over the Flowstock
+comparison doc so he can see it directly instead of secondhand.
+
+Priya: Perfect. One more thing - our current contract with the old vendor ends
+in 6 weeks, so timing matters. We'd want to be live before that lapses.
+
+Rep: Got it, noted. I'll build the implementation timeline around that 6-week
+window so there's no gap in coverage. Let's get Raj on the calendar for next week.
